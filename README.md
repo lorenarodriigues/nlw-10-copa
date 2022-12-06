@@ -27,7 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário de Jogos é um projeto que mostra os primeiros jogos do Brasil na copa de 2022, data, horário e bandeira dos times que irão jogar contra o Brasil estão disponíveis nos cards do projeto. Pode ser acrescentado mais jogos, porém, optei por colocar somente os jogos da seleção brasileira.
+O Calendário de Jogos é um projeto que mostra os 3 primeiros jogos do Brasil na copa de 2022. Data, horário e bandeira dos times que irão jogar contra o time brasileiro, estão disponíveis nos cards do projeto. Poderá ser acrescentado mais jogos, até o final do evento que será dia 18/12/22.
+
 
 ## 🔖 Layout
 
