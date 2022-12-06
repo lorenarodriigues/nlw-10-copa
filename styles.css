@@ -20,18 +20,15 @@ body {
 }
 
 body * {
-    font-family: 'Roboto', sans-serif;
-    
+    font-family: 'Roboto', sans-serif; 
 }
 
 #app {
     width: fit-content;
     margin-top: 52px auto;
-
 }
 
 header {
-    margin-bottom: 50px;
     text-align: center;
 }
     
@@ -68,6 +65,7 @@ header {
     color: #E1E1E6;
     font-size: 14px;
     text-transform: uppercase ;
+
 }
 
 .card ul {
@@ -103,7 +101,7 @@ header {
 
 .card {
     animation: appear 2s;
-}
+}  
 
 @keyframes appear {
     0% {
